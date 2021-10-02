@@ -1,0 +1,23 @@
+.navbar
+{
+background-color: #FFF157;
+}
+
+input
+{
+background-color: #FFFFC2;
+}
+#one
+{
+  height: 100%;
+  min-width: 124px;
+}
+#two
+{
+  justify-content: flex-end;
+  min-width: 137px;
+}
+#three
+{
+  justify-content:center;
+}

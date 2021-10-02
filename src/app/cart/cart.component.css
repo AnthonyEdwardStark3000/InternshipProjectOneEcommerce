@@ -1,0 +1,40 @@
+.card-footer
+{
+background-color: transparent;
+box-shadow: -5px -5px 16px -5px rgba(0,0,0,0.53);
+-webkit-box-shadow: -5px -5px 16px -5px rgba(0,0,0,0.53);
+-moz-box-shadow: -5px -5px 16px -5px rgba(0,0,0,0.53);
+border-radius: 7px;
+}
+.card-header
+{
+  /* border-bottom: 1px ; */
+  border-bottom-width: 40%;
+}
+#pricefooter
+{
+  background-color: #FFF157;
+}
+
+/* input:focus::placeholder {
+  color: transparent; */
+/* } */
+.container-fluid
+{
+ background: url(../../bookBlur.jpg);
+ /* filter: blur(4px); */
+ background-repeat: repeat;
+  /* position: absolute; */
+}
+.card
+{
+  border-radius: 12px;
+  box-shadow: 6px -3px 10px 1px rgba(0,0,0,0.49);
+  -webkit-box-shadow: 6px -3px 10px 1px rgba(0,0,0,0.49);
+  -moz-box-shadow: 6px -3px 10px 1px rgba(0,0,0,0.49);
+}
+small:hover
+{
+  color:rgb(113, 61, 255);
+}
+

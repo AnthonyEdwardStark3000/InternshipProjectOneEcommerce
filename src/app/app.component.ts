@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'shopping';
+
+  openNav() {
+    document.getElementById('mySidenav')?.setAttribute("style","width:200px");
+ }
+
 }
